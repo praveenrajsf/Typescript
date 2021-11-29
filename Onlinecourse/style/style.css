@@ -1,0 +1,19 @@
+#registerdiv{
+  /* hide register page */
+    display: none;
+}
+#logindiv
+{
+    /* hide login page */
+    display: none;
+}
+#optiondiv
+{
+    /* hide option page */
+    display: none;
+}
+#enrolldiv
+{
+    /* hide enrolled details page */
+    display: none;
+}
